@@ -15,7 +15,7 @@
       About: 'app/components/About.jsx',
       Examples: 'app/components/Examples.jsx',
       openWeatherMap: 'app/api/openWeatherMap.jsx',
-      appStyle:'app/styles/app.css'
+      appStyle:'app/styles/app.scss'
     },
     extensions: ['', '.js', '.jsx']
   },

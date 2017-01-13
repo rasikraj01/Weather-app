@@ -6,7 +6,7 @@ var Weather = require('Weather');
 var About = require('About');
 var Examples = require('Examples');
 
-require('style!css!appStyle');
+require('style!css!sass!appStyle');
 
 
 ReactDOM.render(

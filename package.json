@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "WeatherApp",
   "version": "1.0.0",
   "description": "Simple react app",
   "main": "index.js",
@@ -11,9 +11,11 @@
   "dependencies": {
     "axios": "^0.9.1",
     "express": "^4.13.4",
+    "node-sass": "^4.3.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
-    "react-router": "^2.0.0"
+    "react-router": "^2.0.0",
+    "sass-loader": "^4.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.5.1",
