@@ -1,4 +1,4 @@
-module.exports = {
+ module.exports = {
   entry: './app/app.jsx',
   output: {
     path: __dirname,
@@ -14,7 +14,8 @@ module.exports = {
       WeatherMessage: 'app/components/WeatherMessage.jsx',
       About: 'app/components/About.jsx',
       Examples: 'app/components/Examples.jsx',
-      openWeatherMap: 'app/api/openWeatherMap.jsx'
+      openWeatherMap: 'app/api/openWeatherMap.jsx',
+      appStyle:'app/styles/app.css'
     },
     extensions: ['', '.js', '.jsx']
   },
